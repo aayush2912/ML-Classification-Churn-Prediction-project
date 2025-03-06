@@ -82,6 +82,11 @@ After applying **SMOTE**, model performance improved significantly:
 - **Recall:** Ability to identify actual churners.  
 - **F1-Score:** Harmonic mean of precision and recall.  
 
+![alt text](image.png)<br>
+![alt text](image-1.png)<br>
+![alt text](image-2.png)<br>
+![alt text](image-3.png)<br>
+
 ---
 
 ### 🔎 Summary:
